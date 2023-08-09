@@ -1,0 +1,203 @@
+[2023-08-09T08:37:35.606+0000] {processor.py:157} INFO - Started process (PID=6618) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:37:35.610+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:37:35.612+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:37:35.612+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:37:35.864+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:37:36.042+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:37:36.042+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:37:36.058+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:37:36.058+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:37:36.074+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.474 seconds
+[2023-08-09T08:38:06.594+0000] {processor.py:157} INFO - Started process (PID=6757) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:38:06.614+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:38:06.616+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:38:06.616+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:38:06.998+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:38:07.019+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:38:07.019+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:38:07.037+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:38:07.037+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:38:07.049+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.460 seconds
+[2023-08-09T08:38:37.460+0000] {processor.py:157} INFO - Started process (PID=6897) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:38:37.464+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:38:37.465+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:38:37.465+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:38:37.829+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:38:37.851+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:38:37.851+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:38:37.866+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:38:37.866+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:38:37.880+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.423 seconds
+[2023-08-09T08:39:08.241+0000] {processor.py:157} INFO - Started process (PID=7036) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:39:08.245+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:39:08.247+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:39:08.247+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:39:08.709+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:39:08.733+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:39:08.733+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:39:08.753+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:39:08.753+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:39:08.768+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.532 seconds
+[2023-08-09T08:39:39.017+0000] {processor.py:157} INFO - Started process (PID=7175) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:39:39.019+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:39:39.020+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:39:39.020+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:39:39.365+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:39:39.386+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:39:39.386+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:39:39.400+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:39:39.399+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:39:39.412+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.399 seconds
+[2023-08-09T08:40:09.768+0000] {processor.py:157} INFO - Started process (PID=7314) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:40:09.771+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:40:09.773+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:40:09.772+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:40:10.214+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:40:10.238+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:40:10.238+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:40:10.253+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:40:10.253+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:40:10.267+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.504 seconds
+[2023-08-09T08:40:40.388+0000] {processor.py:157} INFO - Started process (PID=7453) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:40:40.391+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:40:40.396+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:40:40.396+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:40:40.705+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:40:40.723+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:40:40.723+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:40:40.737+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:40:40.737+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:40:40.750+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.365 seconds
+[2023-08-09T08:41:10.944+0000] {processor.py:157} INFO - Started process (PID=7592) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:41:10.947+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:41:10.949+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:41:10.948+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:41:11.249+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:41:11.267+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:41:11.267+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:41:11.282+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:41:11.282+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:41:11.294+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.354 seconds
+[2023-08-09T08:41:41.605+0000] {processor.py:157} INFO - Started process (PID=7731) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:41:41.607+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:41:41.609+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:41:41.609+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:41:41.910+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:41:41.947+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:41:41.947+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:41:41.961+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:41:41.961+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:41:41.972+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.370 seconds
+[2023-08-09T08:42:12.178+0000] {processor.py:157} INFO - Started process (PID=7870) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:42:12.180+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:42:12.182+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:42:12.181+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:42:12.508+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:42:12.527+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:42:12.527+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:42:12.541+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:42:12.541+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:42:12.554+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.380 seconds
+[2023-08-09T08:42:43.629+0000] {processor.py:157} INFO - Started process (PID=8009) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:42:43.631+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:42:43.634+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:42:43.634+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:42:43.958+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:42:43.980+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:42:43.979+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:42:43.996+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:42:43.996+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:42:44.009+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.385 seconds
+[2023-08-09T08:43:14.142+0000] {processor.py:157} INFO - Started process (PID=8148) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:43:14.144+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:43:14.147+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:43:14.147+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:43:14.432+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:43:14.451+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:43:14.451+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:43:14.465+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:43:14.465+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:43:14.478+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.341 seconds
+[2023-08-09T08:43:45.507+0000] {processor.py:157} INFO - Started process (PID=8287) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:43:45.514+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:43:45.516+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:43:45.516+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:43:45.813+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:43:45.832+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:43:45.832+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:43:45.845+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:43:45.845+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:43:45.858+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.355 seconds
+[2023-08-09T08:44:16.021+0000] {processor.py:157} INFO - Started process (PID=8426) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:44:16.024+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:44:16.025+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:44:16.025+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:44:16.372+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:44:16.393+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:44:16.392+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:44:16.407+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:44:16.407+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:44:16.419+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.403 seconds
+[2023-08-09T08:44:46.662+0000] {processor.py:157} INFO - Started process (PID=8565) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:44:46.665+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:44:46.667+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:44:46.667+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:44:47.149+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:44:47.174+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:44:47.173+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:44:47.191+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:44:47.191+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:44:47.208+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.552 seconds
+[2023-08-09T08:45:17.467+0000] {processor.py:157} INFO - Started process (PID=8704) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:45:17.471+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:45:17.474+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:45:17.473+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:45:17.975+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:45:18.004+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:45:18.003+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:45:18.022+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:45:18.022+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:45:18.038+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.576 seconds
+[2023-08-09T08:45:48.830+0000] {processor.py:157} INFO - Started process (PID=8843) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:45:48.837+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:45:48.839+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:45:48.839+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:45:49.412+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:45:49.440+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:45:49.440+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:45:49.461+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:45:49.461+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:45:49.481+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.674 seconds
+[2023-08-09T08:46:20.067+0000] {processor.py:157} INFO - Started process (PID=8982) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:46:20.070+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:46:20.072+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:46:20.072+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:46:20.648+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:46:20.672+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:46:20.672+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:46:20.692+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:46:20.692+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:46:20.706+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.643 seconds
+[2023-08-09T08:46:51.035+0000] {processor.py:157} INFO - Started process (PID=9122) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:46:51.038+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:46:51.041+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:46:51.041+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:46:51.593+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:46:51.617+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:46:51.617+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:46:51.635+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:46:51.635+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:46:51.649+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.621 seconds
+[2023-08-09T08:47:22.080+0000] {processor.py:157} INFO - Started process (PID=9261) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:47:22.082+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:47:22.084+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:47:22.084+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:47:22.588+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:47:22.616+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:47:22.616+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:47:22.636+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:47:22.636+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:47:22.650+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.573 seconds
+[2023-08-09T08:47:52.958+0000] {processor.py:157} INFO - Started process (PID=9401) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:47:52.961+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:47:52.963+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:47:52.962+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:47:53.492+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:47:53.516+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:47:53.516+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:47:53.533+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:47:53.533+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:47:53.546+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.593 seconds
+[2023-08-09T08:48:23.923+0000] {processor.py:157} INFO - Started process (PID=9540) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:48:23.927+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:48:23.929+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:48:23.929+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:48:24.404+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:48:24.428+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:48:24.428+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:48:24.446+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:48:24.446+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:48:24.460+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.541 seconds
+[2023-08-09T08:48:54.972+0000] {processor.py:157} INFO - Started process (PID=9678) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:48:54.976+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:48:54.977+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:48:54.977+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:48:55.320+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:48:55.341+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:48:55.341+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:48:55.354+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:48:55.354+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:48:55.366+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.401 seconds
+[2023-08-09T08:49:25.794+0000] {processor.py:157} INFO - Started process (PID=9817) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:49:25.798+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:49:25.801+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:49:25.801+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:49:26.246+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:49:26.269+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:49:26.269+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:49:26.286+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:49:26.285+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:49:26.299+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.510 seconds
+[2023-08-09T08:49:56.470+0000] {processor.py:157} INFO - Started process (PID=9963) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:49:56.482+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:49:56.489+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:49:56.489+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:49:56.909+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:49:56.928+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:49:56.928+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:49:56.942+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:49:56.942+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:49:56.956+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.491 seconds
+[2023-08-09T08:50:27.066+0000] {processor.py:157} INFO - Started process (PID=10102) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:50:27.069+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:50:27.070+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:50:27.070+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:50:27.455+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:50:27.477+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:50:27.477+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:50:27.492+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:50:27.492+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:50:27.503+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.441 seconds
+[2023-08-09T08:50:58.220+0000] {processor.py:157} INFO - Started process (PID=10241) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:50:58.226+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:50:58.228+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:50:58.228+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:50:58.613+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:50:58.634+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:50:58.634+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:50:58.650+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:50:58.650+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:50:58.663+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.446 seconds
+[2023-08-09T08:51:28.800+0000] {processor.py:157} INFO - Started process (PID=10380) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:51:28.804+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:51:28.805+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:51:28.805+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:51:29.154+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:51:29.179+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:51:29.178+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:51:29.193+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:51:29.193+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:51:29.206+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.409 seconds
+[2023-08-09T08:51:59.381+0000] {processor.py:157} INFO - Started process (PID=10532) to work on /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:51:59.383+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_python.py for tasks to queue
+[2023-08-09T08:51:59.385+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:51:59.385+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:51:59.735+0000] {processor.py:836} INFO - DAG(s) dict_keys(['Chap8_python']) retrieved from /opt/airflow/dags/Chap8_python.py
+[2023-08-09T08:51:59.770+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:51:59.769+0000] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-08-09T08:51:59.783+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:51:59.783+0000] {dag.py:3486} INFO - Setting next_dagrun for Chap8_python to 2019-01-01T00:00:00+00:00, run_after=2019-01-02T00:00:00+00:00
+[2023-08-09T08:51:59.796+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_python.py took 0.419 seconds

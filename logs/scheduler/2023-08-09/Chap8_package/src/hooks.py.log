@@ -1,0 +1,150 @@
+[2023-08-09T08:37:27.164+0000] {processor.py:157} INFO - Started process (PID=6591) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:37:27.165+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:37:27.167+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:37:27.167+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:37:27.179+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:37:27.197+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.036 seconds
+[2023-08-09T08:37:58.058+0000] {processor.py:157} INFO - Started process (PID=6730) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:37:58.060+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:37:58.062+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:37:58.062+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:37:58.071+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:37:58.089+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.035 seconds
+[2023-08-09T08:38:28.868+0000] {processor.py:157} INFO - Started process (PID=6872) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:38:28.869+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:38:28.871+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:38:28.871+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:38:28.877+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:38:28.912+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.048 seconds
+[2023-08-09T08:38:59.726+0000] {processor.py:157} INFO - Started process (PID=7009) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:38:59.728+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:38:59.730+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:38:59.730+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:38:59.737+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:38:59.758+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.036 seconds
+[2023-08-09T08:39:30.639+0000] {processor.py:157} INFO - Started process (PID=7150) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:39:30.642+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:39:30.643+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:39:30.643+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:39:30.655+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:39:30.673+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.039 seconds
+[2023-08-09T08:40:01.339+0000] {processor.py:157} INFO - Started process (PID=7287) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:40:01.342+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:40:01.343+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:40:01.343+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:40:01.350+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:40:01.366+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.030 seconds
+[2023-08-09T08:40:31.917+0000] {processor.py:157} INFO - Started process (PID=7428) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:40:31.919+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:40:31.921+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:40:31.921+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:40:31.927+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:40:31.944+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.029 seconds
+[2023-08-09T08:41:02.531+0000] {processor.py:157} INFO - Started process (PID=7567) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:41:02.533+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:41:02.534+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:41:02.534+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:41:02.539+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:41:02.555+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.027 seconds
+[2023-08-09T08:41:33.139+0000] {processor.py:157} INFO - Started process (PID=7706) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:41:33.141+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:41:33.142+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:41:33.142+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:41:33.151+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:41:33.167+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.031 seconds
+[2023-08-09T08:42:03.693+0000] {processor.py:157} INFO - Started process (PID=7843) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:42:03.695+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:42:03.696+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:42:03.696+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:42:03.703+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:42:03.720+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.030 seconds
+[2023-08-09T08:42:34.072+0000] {processor.py:157} INFO - Started process (PID=7977) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:42:34.077+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:42:34.078+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:42:34.078+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:42:34.084+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:42:34.107+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.037 seconds
+[2023-08-09T08:43:04.632+0000] {processor.py:157} INFO - Started process (PID=8123) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:43:04.634+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:43:04.637+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:43:04.636+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:43:04.646+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:43:04.661+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.032 seconds
+[2023-08-09T08:43:35.024+0000] {processor.py:157} INFO - Started process (PID=8262) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:43:35.026+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:43:35.028+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:43:35.028+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:43:35.035+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:43:35.053+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.031 seconds
+[2023-08-09T08:44:05.570+0000] {processor.py:157} INFO - Started process (PID=8401) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:44:05.572+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:44:05.573+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:44:05.573+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:44:05.582+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:44:05.599+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.034 seconds
+[2023-08-09T08:44:36.238+0000] {processor.py:157} INFO - Started process (PID=8540) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:44:36.240+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:44:36.241+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:44:36.241+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:44:36.252+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:44:36.270+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.035 seconds
+[2023-08-09T08:45:07.019+0000] {processor.py:157} INFO - Started process (PID=8679) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:45:07.021+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:45:07.023+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:45:07.023+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:45:07.036+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:45:07.053+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.037 seconds
+[2023-08-09T08:45:38.195+0000] {processor.py:157} INFO - Started process (PID=8818) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:45:38.198+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:45:38.238+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:45:38.238+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:45:38.258+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:45:38.280+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.088 seconds
+[2023-08-09T08:46:08.553+0000] {processor.py:157} INFO - Started process (PID=8957) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:46:08.555+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:46:08.556+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:46:08.556+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:46:08.563+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:46:08.580+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.031 seconds
+[2023-08-09T08:46:39.511+0000] {processor.py:157} INFO - Started process (PID=9097) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:46:39.516+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:46:39.517+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:46:39.517+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:46:39.523+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:46:39.541+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.033 seconds
+[2023-08-09T08:47:10.540+0000] {processor.py:157} INFO - Started process (PID=9234) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:47:10.541+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:47:10.543+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:47:10.543+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:47:10.548+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:47:10.565+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.029 seconds
+[2023-08-09T08:47:41.465+0000] {processor.py:157} INFO - Started process (PID=9375) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:47:41.467+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:47:41.468+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:47:41.468+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:47:41.497+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:47:41.516+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.054 seconds
+[2023-08-09T08:48:12.428+0000] {processor.py:157} INFO - Started process (PID=9515) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:48:12.431+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:48:12.432+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:48:12.432+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:48:12.439+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:48:12.458+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.033 seconds
+[2023-08-09T08:48:43.423+0000] {processor.py:157} INFO - Started process (PID=9651) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:48:43.426+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:48:43.427+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:48:43.427+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:48:43.435+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:48:43.451+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.031 seconds
+[2023-08-09T08:49:14.265+0000] {processor.py:157} INFO - Started process (PID=9792) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:49:14.267+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:49:14.269+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:49:14.269+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:49:14.282+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:49:14.304+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.045 seconds
+[2023-08-09T08:49:44.993+0000] {processor.py:157} INFO - Started process (PID=9929) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:49:44.995+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:49:44.997+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:49:44.997+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:49:45.003+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:49:45.020+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.031 seconds
+[2023-08-09T08:50:15.403+0000] {processor.py:157} INFO - Started process (PID=10063) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:50:15.405+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:50:15.407+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:50:15.406+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:50:15.414+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:50:15.430+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.031 seconds
+[2023-08-09T08:50:46.782+0000] {processor.py:157} INFO - Started process (PID=10209) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:50:46.788+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:50:46.789+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:50:46.789+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:50:46.796+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:50:46.819+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.042 seconds
+[2023-08-09T08:51:17.314+0000] {processor.py:157} INFO - Started process (PID=10346) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:51:17.317+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:51:17.318+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:51:17.318+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:51:17.325+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:51:17.343+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.032 seconds
+[2023-08-09T08:51:47.806+0000] {processor.py:157} INFO - Started process (PID=10487) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:51:47.809+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:51:47.811+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:51:47.811+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:51:47.839+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:51:47.857+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.054 seconds
+[2023-08-09T08:52:18.853+0000] {processor.py:157} INFO - Started process (PID=10602) to work on /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:52:18.857+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/Chap8_package/src/hooks.py for tasks to queue
+[2023-08-09T08:52:18.864+0000] {logging_mixin.py:149} INFO - [2023-08-09T08:52:18.864+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:52:18.875+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/Chap8_package/src/hooks.py
+[2023-08-09T08:52:18.904+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/Chap8_package/src/hooks.py took 0.058 seconds
